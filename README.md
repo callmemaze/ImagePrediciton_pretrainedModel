@@ -6,3 +6,5 @@ VGG16 is a convolution neural net (CNN ) architecture which was used to win ILSV
 Used a pretrained model VGG16 so it is an easy image recognition
 But if you want to use a different pretrained model like ResNet then steps are inside the notebook
 
+I have used google collab so for image i have mounted my drive. So you have to modify the path as your need.
+I have also provided a image of a dog to predict but you want to use your image then feel free to use it and give it a try.
